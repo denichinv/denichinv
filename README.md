@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on<br>- Studying web development and building projects to improve my skills<br><br>🤝 I’m looking to collaborate on<br>- Front-end web development projects<br><br>🙌 I’m looking for help with<br>- Expanding my web development skills (especially full-stack)<br><br>🌱 I’m currently learning<br>- Advanced front-end development (React, UI/UX)<br>- Backend basics to become a well-rounded developer<br><br><br>
+🛠 I’m currently working on<br>-   Studying web development and building projects to improve my skills<br><br>🤝 I’m looking to collaborate on<br>-   Front-end web development projects<br><br>🙌 I’m looking for help with<br>-   Expanding my web development skills (especially full-stack)<br><br>🌱 I’m currently learning<br>-   Advanced front-end development (React, UI/UX)<br>-   Backend basics to become a well-rounded developer<br><br><br>
 
 
 ## 🌐 Socials:
