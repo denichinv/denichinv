@@ -1,17 +1,19 @@
 # 💫 About Me:
 
-🛠 Currently working on  
-- Enhancing my front-end development skills through hands-on projects  
-- Building a Fitness Routine Builder app using React  
+👨‍💻 Front-End Developer focused on building responsive, accessible, and user-friendly web applications with React and TypeScript.
+🎯 Currently working on a Quiz App and Workout Routine Builder, practicing component architecture and TypeScript fundamentals.
 
-🤝 Open to collaborating on  
-- Front-end projects focused on clean UI, responsive design, and great user experience  
+🚀 Open to collaborating on
 
-🙌 Looking to grow in  
-- Advanced front-end techniques, design systems, and performance optimization  
+Front-end projects using modern stacks (React, Vite, Tailwind)
 
-🌱 Actively learning  
-- React best practices, UI/UX principles, and modern JavaScript workflows  
+Ideas focused on learning, UI/UX improvement, or developer portfolio tools
+
+🔎 Focused on growing in
+
+TypeScript, testing (Jest/Cypress), and performance optimization
+
+Clean code principles, state management, and accessibility
 
 
 ## 🌐 Socials:
