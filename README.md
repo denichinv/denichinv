@@ -1,19 +1,16 @@
 # 💫 About Me:
 
-👨‍💻 Front-End Developer focused on building responsive, accessible, and user-friendly web applications with React and TypeScript.
-🎯 Currently working on a Quiz App and Workout Routine Builder, practicing component architecture and TypeScript fundamentals.
+👨‍💻 Front-End Developer focused on building responsive, accessible, and user-friendly web applications with React and TypeScript.  
+🎯 Currently working on a **Quiz App** and **Workout Routine Builder**, practicing component architecture and TypeScript fundamentals.
 
-🚀 Open to collaborating on
+## 🚀 Open to Collaborating On
+- Front-end projects using modern stacks (React, Vite, Tailwind)
+- Ideas focused on learning, UI/UX improvement, or developer portfolio tools
 
-Front-end projects using modern stacks (React, Vite, Tailwind)
+## 🔎 Focused on Growing In
+- TypeScript, testing (Jest/Cypress), and performance optimization
+- Clean code principles, state management, and accessibility
 
-Ideas focused on learning, UI/UX improvement, or developer portfolio tools
-
-🔎 Focused on growing in
-
-TypeScript, testing (Jest/Cypress), and performance optimization
-
-Clean code principles, state management, and accessibility
 
 
 ## 🌐 Socials:
