@@ -49,8 +49,7 @@ Interactive workout planner with **90% Jest test coverage** and automated **CI/C
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=denichinv&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denichinv&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denichinv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
