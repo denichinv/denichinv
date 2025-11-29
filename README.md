@@ -7,21 +7,21 @@
 ## 🚀 Featured Projects
 
 ### [DevQuiz](https://github.com/denichinv/quiz-app) - TypeScript Quiz Application
-TypeScript quiz app with modular SCSS architecture (9 reusable mixins, 30+ variables). Multi-stage flows, real-time scoring, and QuizAPI integration.
+TypeScript quiz app with modular SCSS architecture (9 reusable mixins, 30+ variables). Features multi-stage flows, real-time scoring, and QuizAPI integration. **Includes 90% Vitest test coverage and automated CI/CD via GitHub Actions.**
 
-**Tech:** React · TypeScript · SCSS · Vite  
+**Tech:** React · TypeScript · SCSS · Vite · Vitest · GitHub Actions  
 **[Live Demo](https://dev-quiz-v.netlify.app/)**
 
 ### [CineVault](https://github.com/denichinv/CineVault) - Movie Discovery App
-Movie library with TMDB API integration, client-side filtering (6+/7+/8+ ratings), and skeleton loading states.
+Movie library with TMDB API integration, client-side filtering (6+/7+/8+ ratings), and skeleton loading states. **Achieved 95% test coverage using Vitest and implemented CI/CD via GitHub Actions.**
 
-**Tech:** React · JavaScript · CSS3 · TMDB API · Vite  
+**Tech:** React · JavaScript · CSS3 · TMDB API · Vite · Vitest · GitHub Actions  
 **[Live Demo](https://cinevaultmoviesapp.netlify.app/)**
 
 ### [Workout Routine Builder](https://github.com/denichinv/workout-routine-builder) - Fitness Planner
 Interactive workout planner with **90% Jest test coverage** and automated **CI/CD via GitHub Actions**. Features localStorage persistence and 7-day calendar interface.
 
-**Tech:** React · JavaScript · Tailwind CSS · Jest · GitHub Actions  
+**Tech:** React · JavaScript · Tailwind CSS · Jest · GitHub Actions · LocalStorage API  
 **[Live Demo](https://workoutroutinebuilder.netlify.app/)**
 
 ---
@@ -40,6 +40,7 @@ Interactive workout planner with **90% Jest test coverage** and automated **CI/C
 ### Tools & Testing
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E35FF.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -49,7 +50,7 @@ Interactive workout planner with **90% Jest test coverage** and automated **CI/C
 ---
 
 ## 📊 GitHub Stats
-  
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denichinv&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denichinv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -57,8 +58,8 @@ Interactive workout planner with **90% Jest test coverage** and automated **CI/C
 
 ## 🎯 Currently
 
-- 📚 Expanding test coverage across all projects with Jest and React Testing Library
-- 🔧 Implementing CI/CD pipelines with GitHub Actions
+- ✅ **Ensured 90%+ test coverage (Jest/Vitest) across featured projects**
+- ✅ **Implemented automated CI/CD using GitHub Actions on all key repositories**
 - 🎨 Refining TypeScript and SCSS architecture patterns
 - 🌱 Learning advanced React patterns and performance optimization
 
@@ -80,5 +81,5 @@ Interactive workout planner with **90% Jest test coverage** and automated **CI/C
 
 ---
 
-📍 **Location:** Dunstable, Bedfordshire, UK  
+📍 **Location:** Dunstable, Bedfordshire, UK  
 💼 **Status:** Open to Front-End Developer opportunities (Remote/Hybrid/On-site)
