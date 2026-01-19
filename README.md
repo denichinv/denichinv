@@ -1,85 +1,109 @@
-# 👋 Hi, I'm Vilizar Denichin
+# 👋 Hi, I’m Vilizar Denichin
 
-**Front-End Developer** building responsive, accessible web applications with **React** and **TypeScript**.
+
+### Front-End Developer | React · TypeScript · Testing · CI/CD
+
+Front-End Developer building **production-ready, test-driven web applications** using **React and TypeScript**, with hands-on experience across **unit, integration, and end-to-end testing** using **Vitest, Jest, and Playwright**, supported by automated **CI/CD pipelines**.
+
+---
+
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Vitest](https://img.shields.io/badge/Vitest-6E35FF?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [DevQuiz](https://github.com/denichinv/quiz-app) - TypeScript Quiz Application
-TypeScript quiz app with modular SCSS architecture (9 reusable mixins, 30+ variables). Features multi-stage flows, real-time scoring, and QuizAPI integration. **Includes 90% Vitest test coverage and automated CI/CD via GitHub Actions.**
+ 🌐 [Live Demo](https://dev-quiz-v.netlify.app/)
 
-**Tech:** React · TypeScript · SCSS · Vite · Vitest · GitHub Actions  
-**[Live Demo](https://dev-quiz-v.netlify.app/)**
+A scalable quiz platform with **multi-stage user flows**, **real-time scoring**, and **external API integration**, backed by **full-spectrum automated testing**.
 
-### [CineVault](https://github.com/denichinv/CineVault) - Movie Discovery App
-Movie library with TMDB API integration, client-side filtering (6+/7+/8+ ratings), and skeleton loading states. **Achieved 95% test coverage using Vitest and implemented CI/CD via GitHub Actions.**
+**Highlights**
+- Modular SCSS architecture (9 reusable mixins, 30+ variables)
+- QuizAPI integration with resilient error handling
+- 90% unit/integration test coverage (Vitest)
+- Playwright E2E tests covering critical user journeys
+- CI/CD pipeline with GitHub Actions (unit + E2E)
 
-**Tech:** React · JavaScript · CSS3 · TMDB API · Vite · Vitest · GitHub Actions  
-**[Live Demo](https://cinevaultmoviesapp.netlify.app/)**
-
-### [Workout Routine Builder](https://github.com/denichinv/workout-routine-builder) - Fitness Planner
-Interactive workout planner with **90% Jest test coverage** and automated **CI/CD via GitHub Actions**. Features localStorage persistence and 7-day calendar interface.
-
-**Tech:** React · JavaScript · Tailwind CSS · Jest · GitHub Actions · LocalStorage API  
-**[Live Demo](https://workoutroutinebuilder.netlify.app/)**
+**Tech:** React · TypeScript · SCSS · Vite · Vitest · Playwright · GitHub Actions
 
 ---
+### [CineVault](https://github.com/denichinv/CineVault) - Movie Discovery App
+ 🌐 [Live Demo](https://cinevaultmoviesapp.netlify.app/)
 
-## 💻 Tech Stack
+A performant movie discovery app using the TMDB API, featuring **client-side filtering**, **user-centric loading states**, and **robust automated testing**.
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Highlights**
+- Rating-based filtering (6+/7+/8+)
+- Skeleton loaders for improved perceived performance
+- 95% unit/integration test coverage (Vitest)
+- Playwright E2E tests for browsing and filtering flows
+- CI/CD via GitHub Actions
 
-### Tools & Testing
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E35FF.svg?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+**Tech:** React · JavaScript · CSS3 · TMDB API · Vite · Vitest · Playwright · GitHub Actions
+
+---
+### [Workout Routine Builder](https://github.com/denichinv/workout-routine-builder) - Fitness Planner
+🌐 [Live Demo](https://workoutroutinebuilder.netlify.app/)
+
+An interactive workout planner with **persistent state**, **calendar-based scheduling**, and **end-to-end coverage of core user actions**.
+
+**Highlights**
+- 7-day workout planning interface
+- LocalStorage persistence
+- 90% unit test coverage (Jest)
+- Playwright E2E tests for creation & persistence flows
+- Automated CI/CD pipeline
+
+**Tech:** React · JavaScript · Tailwind CSS · Jest · Playwright · GitHub Actions · LocalStorage API
 
 ---
 
 ## 📊 GitHub Stats
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=denichinv&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denichinv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denichinv&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denichinv&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🎯 Currently
+## 🎯 Current Focus
 
-- ✅ **Ensured 90%+ test coverage (Jest/Vitest) across featured projects**
-- ✅ **Implemented automated CI/CD using GitHub Actions on all key repositories**
-- 🎨 Refining TypeScript and SCSS architecture patterns
-- 🌱 Learning advanced React patterns and performance optimization
+- ✅ Maintaining **90%+ automated test coverage**
+- ✅ CI/CD pipelines including **Playwright E2E runs**
+- 🎯 Advanced React patterns and performance optimisation
+- 🎯 Scalable TypeScript and styling architectures
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- Frontend projects using React, TypeScript, and modern tooling
-- Open-source contributions focused on accessibility and clean code
-- Developer tools and portfolio enhancement projects
+- React & TypeScript applications
+- Test-driven frontend development
+- Open-source projects focused on **quality and accessibility**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vilizardenichin.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VilizarDenichin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denichinv@gmail.com)
+- 🌍 Portfolio: https://vilizardenichin.netlify.app  
+- 💼 LinkedIn: https://linkedin.com/in/VilizarDenichin  
+- 📧 Email: denichinv@gmail.com  
 
----
-
-📍 **Location:** Dunstable, Bedfordshire, UK  
-💼 **Status:** Open to Front-End Developer opportunities (Remote/Hybrid/On-site)
+📍 **Location:** Dunstable, Bedfordshire, UK  
+💼 **Status:** Open to Front-End Developer roles (Remote / Hybrid / On-site)
