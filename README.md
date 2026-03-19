@@ -30,18 +30,20 @@ Front-End Developer building **production-ready, test-driven web applications** 
 ## 🚀 Featured Projects
 
 
-### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg) - Boutique Wellness Website
+### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg) - Boutique Wellness Website  
 🌐 [Live Demo](https://euphoria-wellness.netlify.app/)
 
 A premium marketing website for a boutique wellness studio offering **Pilates Reformer and XBody EMS training**, built with a focus on **performance, accessibility, and clean component architecture**.
 
 **Highlights**
-- Premium responsive UI design
-- Modular React + TypeScript architecture
-- Design token system with Tailwind + CSS variables
-- Accessibility-focused semantic HTML
-- Lighthouse scores: Performance 90+, Accessibility 100
-- Netlify deployment with contact form integration
+- Premium responsive UI design  
+- Modular React + TypeScript architecture  
+- Bilingual support (BG / EN) with dynamic language switching  
+- Centralized translation system using React Context  
+- Design token system with Tailwind + CSS variables  
+- Accessibility-focused semantic HTML  
+- Lighthouse scores: Performance 90+, Accessibility 100  
+- Netlify deployment with contact form integration  
 
 **Tech:** React · TypeScript · Tailwind CSS · Vite · Vitest · Netlify
 
