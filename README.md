@@ -121,7 +121,7 @@ An interactive workout planner with **persistent state**, **calendar-based sched
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://vilizardenichin.netlify.app  
+- 🌍 Portfolio: [https://vilizar.dev/](https://vilizar.dev/)
 - 💼 LinkedIn: https://linkedin.com/in/VilizarDenichin  
 - 📧 Email: denichinv@gmail.com  
 
