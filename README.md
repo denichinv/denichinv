@@ -31,7 +31,7 @@ Front-End Developer building **production-ready, test-driven web applications** 
 
 
 ### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg) - Boutique Wellness Website  
-🌐 [Live Demo](https://euphoria-wellness.netlify.app/)
+🌐 [Live Demo](https://euphoria-wellness.com/)
 
 A premium marketing website for a boutique wellness studio offering **Pilates Reformer and XBody EMS training**, built with a focus on **performance, accessibility, and clean component architecture**.
 
