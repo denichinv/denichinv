@@ -98,7 +98,6 @@ An interactive workout planner with **persistent state**, **calendar-based sched
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denichinv&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denichinv&theme=dark&hide_border=false&layout=compact)
 
 ---
 
