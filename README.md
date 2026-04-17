@@ -101,12 +101,22 @@ An interactive workout planner with **persistent state**, **calendar-based sched
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
-- ✅ Maintaining **90%+ automated test coverage**
-- ✅ CI/CD pipelines including **Playwright E2E runs**
-- 🎯 Advanced React patterns and performance optimisation
-- 🎯 Scalable TypeScript and styling architectures
+Building a **full-stack finance dashboard** in collaboration with a backend developer, focusing on real-world product architecture and team workflow.
+
+🔗 Project: [AI Finance App](https://github.com/denichinv/ai-finance)
+
+- ⚛️ React + TypeScript dashboard with modular component architecture  
+- 🔗 Frontend ↔ Backend integration (ASP.NET Core API)  
+- 🤝 Working in a team environment with separated frontend/backend responsibilities  
+- 🌿 Feature branch workflow with pull requests  
+- 📊 Financial data visualisation (charts & insights)  
+- 🔁 Full CRUD operations with API-driven state updates  
+- 🧠 Clean separation of logic and UI  
+- 🎨 UI/UX improvements with animations (Framer Motion)  
+
+🎯 Goal: Deliver a production-ready fintech-style application.
 
 ---
 
