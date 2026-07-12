@@ -1,15 +1,16 @@
-# 👋 Hi, I’m Vilizar Denichin
+# 👋 Hi, I'm Vilizar Denichin
 
 
-### Front-End Developer | React · TypeScript · Testing · CI/CD
+### Front-End Developer | React · TypeScript · Next.js · Testing · CI/CD
 
-Front-End Developer building **production-ready, test-driven web applications** using **React and TypeScript**, with hands-on experience across **unit, integration, and end-to-end testing** using **Vitest, Jest, and Playwright**, supported by automated **CI/CD pipelines**.
+Front-End Developer building **production-ready, test-driven web applications** using **React, TypeScript, and Next.js**, with hands-on experience across **unit, integration, and end-to-end testing** using **Vitest, Jest, and Playwright**, supported by automated **CI/CD pipelines**.
 
 ---
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,12 +24,27 @@ Front-End Developer building **production-ready, test-driven web applications** 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ---
 
 ## 🚀 Featured Projects
 
+### [Portfolio Website](https://github.com/denichinv) - Personal Site
+🌐 [Live Demo](https://vilizar.dev/)
+
+A dark-mode personal portfolio built with **Next.js 14 (App Router)**, showcasing projects, skills, and background — designed with a clean, minimal aesthetic inspired by Linear, Vercel, and Stripe.
+
+**Highlights**
+- Next.js 14 App Router with TypeScript
+- Framer Motion animations, including an animated hero section
+- Tailwind CSS design system with a dark-mode-only interface
+- Deployed on Vercel with continuous deployment from GitHub
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Vercel
+
+---
 
 ### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg) - Boutique Wellness Website  
 🌐 [Live Demo](https://euphoria-wellness.com/)
@@ -122,7 +138,7 @@ Building a **full-stack finance dashboard** in collaboration with a backend deve
 
 ## 🤝 Open to Collaborate On
 
-- React & TypeScript applications
+- React, TypeScript & Next.js applications
 - Test-driven frontend development
 - Open-source projects focused on **quality and accessibility**
 
@@ -131,7 +147,7 @@ Building a **full-stack finance dashboard** in collaboration with a backend deve
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: [https://vilizar.dev/](https://vilizar.dev/)
-- 💼 LinkedIn: https://linkedin.com/in/VilizarDenichin  
+- 💼 LinkedIn: [https://www.linkedin.com/in/vilizar-denichin/](https://www.linkedin.com/in/vilizar-denichin/)
 - 📧 Email: denichinv@gmail.com  
 
 📍 **Location:** Dunstable, Bedfordshire, UK  
