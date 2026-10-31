@@ -1,154 +1,124 @@
 # 👋 Hi, I'm Vilizar Denichin
 
+### Front-End Developer | React · TypeScript · Next.js · Testing
 
-### Front-End Developer | React · TypeScript · Next.js · Testing · CI/CD
+I build web applications with React, TypeScript, and Next.js, with a focus on responsive interfaces, API integration, accessibility, and automated testing. My projects include a bilingual business website, developer practice tools, and apps for planning workouts and discovering movies.
 
-Front-End Developer building **production-ready, test-driven web applications** using **React, TypeScript, and Next.js**, with hands-on experience across **unit, integration, and end-to-end testing** using **Vitest, Jest, and Playwright**, supported by automated **CI/CD pipelines**.
-
----
+I'm also extending my backend skills with Node.js, Express, and Turso, and collaborating with a backend developer on a finance dashboard.
 
 ## 💻 Tech Stack
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Vitest](https://img.shields.io/badge/Vitest-6E35FF?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
----
+- **Frontend:** React · TypeScript · JavaScript · Next.js · HTML · CSS
+- **Styling and motion:** Tailwind CSS · Sass/SCSS · Framer Motion
+- **Testing:** Vitest · Jest · React Testing Library · Playwright
+- **Backend work:** Node.js · Express · Turso/libSQL · REST APIs
+- **Tools and deployment:** Git · GitHub Actions · Vite · Netlify · Vercel · Render
 
 ## 🚀 Featured Projects
 
-### [Portfolio Website](https://github.com/denichinv) - Personal Site
-🌐 [Live Demo](https://vilizar.dev/)
+### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg)
 
-A dark-mode personal portfolio built with **Next.js 14 (App Router)**, showcasing projects, skills, and background — designed with a clean, minimal aesthetic inspired by Linear, Vercel, and Stripe.
+🌐 [Live site](https://euphoria-wellness.com/)
 
-**Highlights**
-- Next.js 14 App Router with TypeScript
-- Framer Motion animations, including an animated hero section
-- Tailwind CSS design system with a dark-mode-only interface
-- Deployed on Vercel with continuous deployment from GitHub
+A bilingual website for a boutique wellness studio offering Pilates Reformer and XBody EMS training.
 
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Vercel
-
----
-
-### [Euphoria Wellness Studio](https://github.com/denichinv/euphoria-wellness-studio-bg) - Boutique Wellness Website  
-🌐 [Live Demo](https://euphoria-wellness.com/)
-
-A premium marketing website for a boutique wellness studio offering **Pilates Reformer and XBody EMS training**, built with a focus on **performance, accessibility, and clean component architecture**.
-
-**Highlights**
-- Premium responsive UI design  
-- Modular React + TypeScript architecture  
-- Bilingual support (BG / EN) with dynamic language switching  
-- Centralized translation system using React Context  
-- Design token system with Tailwind + CSS variables  
-- Accessibility-focused semantic HTML  
-- Lighthouse scores: Performance 90+, Accessibility 100  
-- Netlify deployment with contact form integration  
+- Bulgarian and English content with a shared translation system.
+- Responsive service, gallery, contact, and footer sections.
+- Image and video gallery with previous/next navigation.
+- Netlify contact form with explicit service selection, submission feedback, and error handling.
+- Component tests with Vitest and React Testing Library.
 
 **Tech:** React · TypeScript · Tailwind CSS · Vite · Vitest · Netlify
 
----
+### [Workout Routine Builder](https://github.com/denichinv/workout-routine-builder)
 
-### [DevQuiz](https://github.com/denichinv/quiz-app) - TypeScript Quiz Application
- 🌐 [Live Demo](https://dev-quiz-v.netlify.app/)
+🌐 [Live app](https://workoutroutinebuilder.netlify.app/)
 
-A scalable quiz platform with **multi-stage user flows**, **real-time scoring**, and **external API integration**, backed by **full-spectrum automated testing**.
+A weekly training planner with an exercise library backed by a Node.js API and Turso database.
 
-**Highlights**
-- Modular SCSS architecture (9 reusable mixins, 30+ variables)
-- QuizAPI integration with resilient error handling
-- 90% unit/integration test coverage (Vitest)
-- Playwright E2E tests covering critical user journeys
-- CI/CD pipeline with GitHub Actions (unit + E2E)
+- Seven-day planning with editable sets and reps.
+- Weekly plans saved in LocalStorage.
+- Express API for listing, adding, deleting, and importing exercises.
+- Exercise-library storage migrated from SQLite to Turso, with validated inputs and parameterized queries.
+- Netlify frontend configured to proxy API requests to Render.
+- Jest and React Testing Library tests, with a GitHub Actions test workflow.
 
-**Tech:** React · TypeScript · SCSS · Vite · Vitest · Playwright · GitHub Actions
+**Tech:** React · JavaScript · Tailwind CSS · Node.js · Express · Turso/libSQL · Jest · Netlify · Render
 
----
-### [CineVault](https://github.com/denichinv/CineVault) - Movie Discovery App
- 🌐 [Live Demo](https://cinevaultmoviesapp.netlify.app/)
+### [DevQuiz](https://github.com/denichinv/quiz-app)
 
-A performant movie discovery app using the TMDB API, featuring **client-side filtering**, **user-centric loading states**, and **robust automated testing**.
+🌐 [Live app](https://dev-quiz-v.netlify.app/)
 
-**Highlights**
-- Rating-based filtering (6+/7+/8+)
-- Skeleton loaders for improved perceived performance
-- 95% unit/integration test coverage (Vitest)
-- Playwright E2E tests for browsing and filtering flows
-- CI/CD via GitHub Actions
+A developer quiz app built around choosing a topic, practicing, and reviewing mistakes.
 
-**Tech:** React · JavaScript · CSS3 · TMDB API · Vite · Vitest · Playwright · GitHub Actions
+- Configurable categories, difficulty, and question count, with scoring and a progress bar.
+- Immediate answer feedback and a question-by-question results review.
+- Retry missed questions without fetching a new quiz, or play again with the original settings.
+- Server-side QuizAPI proxy with input validation and response checks.
+- Request timeouts, cancellation, clear errors, and retry controls.
+- Keyboard focus management, responsive layouts, and reduced-motion support.
+- Unit, component, integration, server-function, and Playwright browser tests, with GitHub Actions checks.
 
----
-### [Workout Routine Builder](https://github.com/denichinv/workout-routine-builder) - Fitness Planner
-🌐 [Live Demo](https://workoutroutinebuilder.netlify.app/)
+**Tech:** React · TypeScript · SCSS · Vite · Netlify Functions · Vitest · Playwright · GitHub Actions
 
-An interactive workout planner with **persistent state**, **calendar-based scheduling**, and **end-to-end coverage of core user actions**.
+### [CineVault](https://github.com/denichinv/CineVault)
 
-**Highlights**
-- 7-day workout planning interface
-- LocalStorage persistence
-- 90% unit test coverage (Jest)
-- Playwright E2E tests for creation & persistence flows
-- Automated CI/CD pipeline
+🌐 [Live app](https://cinevaultmoviesapp.netlify.app/)
 
-**Tech:** React · JavaScript · Tailwind CSS · Jest · Playwright · GitHub Actions · LocalStorage API
+A movie discovery app using TMDB, with live title search and tools for narrowing down what to watch.
 
----
+- Debounced search with keyboard-accessible movie suggestions.
+- Category browsing, minimum-rating filters, and sorting options.
+- Protection against outdated requests replacing the current results.
+- Responsive movie cards with poster fallbacks.
+- Loading placeholders and distinct empty-result messages.
+- Vitest component tests and Playwright browser tests.
+
+**Tech:** React · JavaScript · CSS · Headless UI · TMDB API · Vite · Vitest · Playwright
+
+### [Portfolio Website](https://github.com/denichinv/vilizar-portfolio)
+
+🌐 [Live site](https://vilizar.dev/)
+
+My portfolio, built with Next.js 16 App Router, featuring project case studies and implementation details.
+
+- Dedicated case-study pages covering project challenges, architecture, features, and testing.
+- Page-specific canonical URLs and social-sharing metadata.
+- Optimized project image sizing and semantic project lists.
+- Responsive layouts and Framer Motion animations.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Vercel
+
+## 🤝 Collaboration Project
+
+### [AI Finance App](https://github.com/denichinv/ai-finance)
+
+A finance dashboard developed in collaboration with a backend developer. My focus is the React and TypeScript frontend and its integration with the ASP.NET Core API.
+
+- Authenticated API requests and dashboard loading, empty, and error states.
+- Transaction entry with amount, category, and date validation.
+- Form values preserved when a submission fails.
+- Spending charts and insights that distinguish expenses from income.
+- Negative-balance feedback.
+- Feature branches and pull requests for incremental changes.
+
+**Frontend:** React · TypeScript · Tailwind CSS · Recharts · Axios · Framer Motion
 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](./profile/streak.svg)
 
----
+## 🌱 Open to Collaborate On
 
-## 🎯 Currently Working On
-
-Building a **full-stack finance dashboard** in collaboration with a backend developer, focusing on real-world product architecture and team workflow.
-
-🔗 Project: [AI Finance App](https://github.com/denichinv/ai-finance)
-
-- ⚛️ React + TypeScript dashboard with modular component architecture  
-- 🔗 Frontend ↔ Backend integration (ASP.NET Core API)  
-- 🤝 Working in a team environment with separated frontend/backend responsibilities  
-- 🌿 Feature branch workflow with pull requests  
-- 📊 Financial data visualisation (charts & insights)  
-- 🔁 Full CRUD operations with API-driven state updates  
-- 🧠 Clean separation of logic and UI  
-- 🎨 UI/UX improvements with animations (Framer Motion)  
-
-🎯 Goal: Deliver a production-ready fintech-style application.
-
----
-
-## 🤝 Open to Collaborate On
-
-- React, TypeScript & Next.js applications
-- Test-driven frontend development
-- Open-source projects focused on **quality and accessibility**
-
----
+- React, TypeScript, and Next.js applications.
+- Frontend testing and API integration.
+- Projects that improve usability and accessibility.
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: [https://vilizar.dev/](https://vilizar.dev/)
-- 💼 LinkedIn: [https://www.linkedin.com/in/vilizar-denichin/](https://www.linkedin.com/in/vilizar-denichin/)
-- 📧 Email: denichinv@gmail.com  
+- [Portfolio](https://vilizar.dev/)
+- [LinkedIn](https://www.linkedin.com/in/vilizar-denichin/)
+- Email: denichinv@gmail.com
 
-📍 **Location:** Dunstable, Bedfordshire, UK  
-💼 **Status:** Open to Front-End Developer roles (Remote / Hybrid / On-site)
+📍 Dunstable, Bedfordshire, UK  
+💼 Open to Front-End Developer roles — remote, hybrid, or on-site.
